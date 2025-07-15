@@ -1,3 +1,4 @@
+import * as readline from 'readline-sync';
 //Exercício 3 (Lista 02)
 const numeros = new Set<number>();
 
